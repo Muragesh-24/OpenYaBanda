@@ -1,0 +1,6 @@
+[submodule "BandhaYaOpen_Backend"]
+	path = BandhaYaOpen_Backend
+	url = https://github.com/Muragesh-24/BandhaYaOpen_Backend.git
+[submodule "BandhYaOpen_Frontend"]
+	path = BandhYaOpen_Frontend
+	url = https://github.com/Muragesh-24/BandhYaOpen_Frontend.git
